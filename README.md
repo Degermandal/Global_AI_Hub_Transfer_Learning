@@ -1,7 +1,8 @@
 # Global_AI_Hub_Transfer_Learning
 Global AI Hub Machine Learning Bootcamp Transfer Learning Project
 
-Team Members:
+### Team Members:
+
 Değer Mandal
 https://www.linkedin.com/in/de%C4%9Fer-mandal-022436131/
 
